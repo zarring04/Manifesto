@@ -1,0 +1,58 @@
+
+h1 {
+    font-family: Century Gothic, serif;
+    font-size: 4em;
+    color: white;
+}
+h1 {
+  margin-right:50px;
+  margin-left: 50px;
+}
+p {
+    font-family: Century Gothic, serif;
+    font-size: 2em;
+    color: white;
+}
+
+p {
+  margin-right:50px;
+  margin-left: 1100px;
+}
+
+
+a{
+    font-family: Century Gothic, serif;
+    font-size: 1em;
+    color: white;
+}
+
+.blue{background-image: linear-gradient(to right, red, orange, #012a33, black)}
+
+grad {
+  background-image: linear-gradient(red, yellow);
+}
+
+.manifesto img {
+    width: 70%;
+    height:auto;
+}
+.manifesto img{ 
+    float: left
+}
+font-family: "century-gothic", sans-serif;
+font-weight: 400;
+font-style: normal;
+
+font-family: "century-gothic", sans-serif;
+font-weight: 400;
+font-style: italic;
+
+font-family: "century-gothic", sans-serif;
+font-weight: 700;
+font-style: normal;
+
+font-family: "century-gothic", sans-serif;
+font-weight: 700;
+font-style: italic;
+
+ 
