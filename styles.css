@@ -1,3 +1,7 @@
+body {
+  margin:0px auto;
+  width: 100%;
+}
 
 h1 {
     font-family: Century Gothic, serif;
@@ -15,8 +19,8 @@ p {
 }
 
 p {
-  margin-right:50px;
-  margin-left: 1100px;
+
+  margin-left: 80%;
 }
 
 
