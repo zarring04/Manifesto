@@ -1,6 +1,7 @@
 body {
   margin:0px auto;
   width: 100%;
+  cursor: url('images/cursor'),auto;
 }
 
 h1 {
